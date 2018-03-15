@@ -1,0 +1,9 @@
+{:deps
+ {
+  reagent {:mvn/version "0.8.0-alpha2"}
+  org.clojure/core.async {:mvn/version "0.4.474"}
+  
+  }}
+
+
+
