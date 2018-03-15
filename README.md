@@ -10,5 +10,6 @@ Replace occurences of w3 (the default namespace) with your project's desired nam
 
 ##### Every time 
 To get the `build`, `pwatch`, `repl`, and `release` aliases.
+
 `$ source startup.sh`
 
